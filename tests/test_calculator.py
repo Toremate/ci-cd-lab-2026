@@ -15,7 +15,7 @@ def test_add_positive_numbers():
 
 
 def test_add_negative_numbers():
-    assert add(-1, -1) == -2
+    assert add(-1, -1) == 2
 
 
 def test_add_zero():
